@@ -7,7 +7,7 @@ Scan real-world objects and repair 3D meshes for printing on iPhone.
 <img src="docs/assets/shot-1.webp" alt="3D Scan Pro screenshot 1" width="260">
 <img src="docs/assets/shot-2.webp" alt="3D Scan Pro screenshot 2" width="260">
 
-- Website: https://workmanl.github.io/3D-Scan-Pro/
+- Website: https://emrldlabs.com/apps/3d-scan-pro/
 - App Store: https://apps.apple.com/us/app/3d-scan-pro-mesh-generator/id6761485482
 - Support: https://github.com/workmanl/3D-Scan-Pro/issues
 - Email: hello@emrldlabs.com
